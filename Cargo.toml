@@ -1,4 +1,7 @@
 [package]
 name = "teampass"
 version = "0.1.0"
-authors = ["spurge <olof.montin@houseagency.se>"]
+authors = ["spurge <olof@montin.net>"]
+
+[dependencies]
+gpgme = "0.5"
