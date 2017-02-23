@@ -1,0 +1,4 @@
+[package]
+name = "teampass"
+version = "0.1.0"
+authors = ["spurge <olof.montin@houseagency.se>"]
